@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+*.zip
+chromedriver.exe
+env/
+.vscode/
