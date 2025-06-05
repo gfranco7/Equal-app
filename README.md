@@ -1,4 +1,4 @@
-# MineralTrackerApp
+# EqualApp
 
 Aplicación en Python con Selenium y Tkinter para consultar placas mineras y abrir PDFs correspondientes desde el sitio web oficial de ANM.
 
