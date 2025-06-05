@@ -1,0 +1,13 @@
+INSTRUCCIONES DE USO - BUSCADOR DE PLACAS ANM
+
+1. Asegúrate de tener conexión a internet.
+2. Ejecuta "EqualApp.exe".
+3. Carga el archivo Excel con la hoja "Ranking".
+4. Asegúrate de tener una columna llamada "Placa".
+5. Configura cuántas páginas quieres revisar.
+6. Haz clic en "Buscar Placas" y espera los resultados.
+
+🔧 REQUISITO:
+- El archivo "chromedriver.exe" debe estar en la misma carpeta del ejecutable.
+
+📌 Si tienes preguntas, puedes contactar directamente a Gean.

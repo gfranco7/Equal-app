@@ -1,0 +1,14 @@
+LICENCIA DE USO - BUSCADOR DE PLACAS ANM
+
+Este software fue desarrollado por Gean Jácome - Desarrollador de Software.
+
+El presente programa ha sido entregado al cliente con fines de uso personal o interno, permitiendo la automatización del proceso de búsqueda de títulos mineros. Se permite su uso sin restricciones, siempre que:
+
+- No sea distribuido públicamente sin autorización del desarrollador.
+- No se modifique ni se comercialice sin previo acuerdo.
+
+⚠️ El desarrollador ofrece soporte básico en caso de errores técnicos, sin compromiso de actualizaciones futuras, a menos que se acuerde lo contrario.
+
+Gracias por confiar en mi trabajo!
+
+Fecha de entrega: [Lo mas pronto posible]
