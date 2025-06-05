@@ -9,8 +9,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # ==== Cargar lista del usuario desde Excel ====
-df_placas_usuario = pd.read_excel("./placas_usuario.xlsx")  # <- Ruta del archivo
-placas_usuario = df_placas_usuario['Placa'].astype(str).str.upper().tolist()  # Homogenizar
+df_placas_usuario = pd.read_excel("./placas_usuario.xlsx")  
+placas_usuario = df_placas_usuario['Placa'].astype(str).str.upper().tolist() 
 
 # ==== Configurar Selenium ====
 service = Service('./chromedriver.exe')
